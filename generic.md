@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quem sou?
-description: Lorem ipsum dolor est
+description: Escritora? Desenvolvedora? Os dois?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
