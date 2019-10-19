@@ -1,7 +1,7 @@
 ---
 title: Projetos
 layout: landing
-description: 'Todos os projetos realizados<br />.'
+description: 'Todos os projetos realizados<br />em textos e códigos.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
