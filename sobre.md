@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Quem sou?
 description: Escritora? Desenvolvedora? Os dois?
 image: assets/images/pic11.jpg
