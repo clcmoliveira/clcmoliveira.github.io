@@ -3,7 +3,7 @@ title: Camila
 subtitle: L. Oliveira
 email: hellomilla@writeme.com
 description: Página de projetos no GitHub.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Camila L. Oliveira
 street_address: Av. Campy, 15
