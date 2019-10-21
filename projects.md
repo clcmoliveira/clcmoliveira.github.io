@@ -1,7 +1,7 @@
 ---
 title: Projetos
 layout: landing
-description: 'Dos textos aos códigos<br />Todos os projetos reunidos.'
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
