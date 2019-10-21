@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Quem sou eu?
+description: Escritora? Desenvolvedora? Os dois?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
