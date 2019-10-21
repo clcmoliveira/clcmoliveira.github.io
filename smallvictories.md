@@ -16,9 +16,10 @@ nav-menu: false
 		<h3>Ainda estamos desenvolvendo:</h3>
 		<input type="checkbox" id="horns" name="horns">
 			<label for="horns">Acessibilidade</label>
+		<input type="checkbox" id="horns" name="horns">
 			<label for="horns">Armazenamento das tarefas em lista</label>
+		<input type="checkbox" id="horns" name="horns">
 			<label for="horns">Login/Logout</label>
-		</input>
 		<p>Dúvidas? Falar na seção de <a href="#footer">Contato</a>.</p>
 	</div>
 </section>
