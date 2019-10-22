@@ -2,7 +2,7 @@
 title: Small Victories
 layout: landing
 description: 'Projeto de Android com Kotlin, MVVM e Material Design.'
-image: assets/images/pic07.jpg
+image: assets/images/small victories.png
 nav-menu: false
 ---
 
