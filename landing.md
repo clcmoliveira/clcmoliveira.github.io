@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -17,22 +17,20 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
-</section>
+</section>-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="rapida" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<header class="major"><h3>Rápida</h3></header>
+				<p>Sistema de gerenciamento escolar, desenvolvido em PDO, MySQL, WAMP e Gravatar.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="rapida" class="button">Conheça</a></li>
 				</ul>
 			</div>
 		</div>
