@@ -12,5 +12,6 @@ nav-menu: true
 			<header class="major">
 				<h1>Aprender</h1>
 			</header>
+			<p>A página está sob construção.</p>
 		</div>
 	</section>
