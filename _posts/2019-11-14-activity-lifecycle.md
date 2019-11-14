@@ -23,4 +23,3 @@ Os sete passos do ciclo de vida de uma activity de um aplicativo android são:
 ----
 No [JavaTPoint](https://www.javatpoint.com/android-life-cycle-of-activity), faça um app que retrate o ciclo de vida de uma activity. 
 Confira os logs no Debug.
-----
