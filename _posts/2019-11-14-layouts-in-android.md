@@ -35,6 +35,21 @@ Um outro [exemplo](https://gist.github.com/clcmoliveira/aa64bc7f6e60133e2c6166ef
 ------
 
 ## Grid Layout
+O Grid Layout tem como objetivo permitir posicionar as Views em uma disposição de grade. Basicamente consiste em um número de linhas de horizontais e verticais que servem para dividir a visualização do layout em forma de “matriz”, com cada linha e coluna formando uma célula que pode, por sua vez, conter uma ou mais Views. As linhas e colunas são definidas utilizando os atributos columnCount e rowCount.
+
+Cada linha da grade é referenciada por índices, numeradas a partir de 0 contando de baixo para cima. Cada cédula também tem numeração, começando em 0 a partir da célula no canto superior esquerdo da grade. Também é possível definir em qual linha e coluna que cada View vai ficar utilizando os atributos layout_column e layout_row, onde podemos dizer ao GridLayout a posição exata de cada componente dentro da grade.
+
+![Grid Layout Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png)
+<script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
+
+----
+
+## Relative Layout
+Com o RelativeLayout, você pode posicionar as Views Filhas em relação ao Pai, como por exemplo posicionar a View no topo ou no fim do layout. A outra opção, é posicionar as Views em relação a outras Views dentro do mesmo RelativeLayout.
+- Em relação ao layout pai: As Views Filhas dentro do RelativeLayout Pai podem ser posicionadas as bordas esquerda do Pai, superior, direita ou inferior.
+![Relative Layout First Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png)
+- Em relação a outras views: Ao posicionar as Views Filhas em relação a outras Views, você pode adicionar restrições a sua posição. Por exemplo, um TextView deve estar acima de outra TextView, ou um ImageView deve ser a a esquerda de uma outra TextView.
+![Relative Layout Second Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png)
 
 ---------
 # Bibliografia
