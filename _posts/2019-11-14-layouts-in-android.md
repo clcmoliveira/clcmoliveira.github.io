@@ -21,7 +21,7 @@ Um bom exemplo de como você pode posicionar um [componente](/posts/2019-11-14-c
 
 Exemplo Visual | Exemplo de aplicação 
 ------------ | -------------
-![Image of Constraint Alignment](https://miro.medium.com/max/429/1*3jIUT0p0bf0-2baw_K68QQ.png =100px) | <script src="https://gist.github.com/clcmoliveira/f89d5ed420f9749f06caf4e2e726b14f.js"></script>
+<img src="https://miro.medium.com/max/429/1*3jIUT0p0bf0-2baw_K68QQ.png" alt="Image of Constraint Alignment" width="100" height="100"/> | <script src="https://gist.github.com/clcmoliveira/f89d5ed420f9749f06caf4e2e726b14f.js"></script>
 
 ------
 
@@ -33,7 +33,7 @@ Um exemplo é quando você quer que uma mensagem seja mostrada ao usuário, como
 
 Um outro importante atribuuto do LinearLayout é o layout_weight, responsável por definir o peso que cada View tem referente a distribuição dentro dela. Quando não utilizadas, 
 as Views não ocupam totalmente o espaço disponível existente no layout, deixando o design da nossa interface muito mal feito.
-Um outro [exemplo](https://gist.github.com/clcmoliveira/aa64bc7f6e60133e2c6166ef714b60ed#file-act_linear_layout_example_2-xml =100x20) é quando você atribui os pesos de cada componente (View) para layout.
+Um outro [exemplo](https://gist.github.com/clcmoliveira/aa64bc7f6e60133e2c6166ef714b60ed#file-act_linear_layout_example_2-xml) é quando você atribui os pesos de cada componente (View) para layout.
 
 ------
 
@@ -44,7 +44,7 @@ Cada linha da grade é referenciada por índices, numeradas a partir de 0 contan
 
 Exemplo Visual | Exemplo de aplicação 
 ------------ | -------------
-![Grid Layout Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png =100x20) | <script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
+<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png" alt="Grid Layout Example" width="100" height="20"/> | <script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
 
 ----
 
@@ -54,8 +54,7 @@ Com o RelativeLayout, você pode posicionar as Views Filhas em relação ao Pai,
 Em relação ao Layout Pai | Em relação a outras views
 ------------ | -------------
 As Views Filhas dentro do RelativeLayout Pai podem ser posicionadas as bordas esquerda do Pai, superior, direita ou inferior. | Ao posicionar as Views Filhas em relação a outras Views, você pode adicionar restrições a sua posição. Por exemplo, um TextView deve estar acima de outra TextView, ou um ImageView deve ser a a esquerda de uma outra TextView.
-![Relative Layout First Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png =100x20) | ![Relative Layout Second Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png =100x20)
-
+<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png" alt="Relative Layout First Example" width="100" height="20"/> | <img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png" alt="Relative Layout Second Example" width="100" height="20"/>
 
 ---------
 # Bibliografia
