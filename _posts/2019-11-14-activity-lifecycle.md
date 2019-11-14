@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Revisão de Android
-description: Revisão de itens utilizados em um projeto Android
+title: Ciclo de Vida de uma Activity
+description: Tópico inicial da revisão de Android
 author: Camila L. Oliveira
 image: https://static.javatpoint.com/images/androidimages/Android-Activity-Lifecycle.png
 ---
