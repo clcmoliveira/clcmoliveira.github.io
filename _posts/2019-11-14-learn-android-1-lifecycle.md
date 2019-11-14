@@ -6,9 +6,6 @@ author: Camila L. Oliveira
 image: https://static.javatpoint.com/images/androidimages/Android-Activity-Lifecycle.png
 ---
 
-Revisão de itens muito utilizados em um projeto android e como implementar.
-
-## Activity Lifecycle
 Os sete passos do ciclo de vida de uma activity de um aplicativo android são:
 - onCreate: quando o app é criado pela primeira vez;
 - onStart: quando o app está para ser visualizado pelo usuário;
