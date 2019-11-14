@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Boas Vindas
-description: IntroduÁ„o do site
+description: Introdu√ß√£o do site
 image: assets/images/pic06.jpg
 ---
 
-Ol·,
-Este site tem o objetivo de revisar materiais de tutoriais e cursos encontrados na internet para a programaÁ„o em Android.
-Os projetos e aplicaÁıes estar„o no repositÛrio [android](https://github.com/clcmoliveira/android), no GitHub.
+Ol√° √† todos,
+Este site tem o objetivo de revisar materiais de tutoriais e cursos encontrados na internet para a programa√ß√£o em Android.
+Os projetos e aplica√ß√µes estar√£o no reposit√≥rio [android](https://github.com/clcmoliveira/android), no GitHub.
 
 Grata,
 Camila.
