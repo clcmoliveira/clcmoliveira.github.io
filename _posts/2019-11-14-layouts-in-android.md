@@ -17,10 +17,11 @@ Segundo o [guia de desenvolvimento android](https://developer.android.com/traini
 todo o alinhamento é feito de relações entre as Views. A única diferença é que somos capazes de indicar o posicionamento que queremos manter as Views por meio dos seus eixos.
 Os eixos são definidos como X e Y, sendo X o eixo de ínicio (esquerdo) e fim (direito) e o Y o de topo (cima) e inferior (baixo).
 
+Um bom exemplo de como você pode posicionar um [componente](/posts/2019-11-14-components-in-android) no Constraint Layout:
+
 Exemplo Visual | Exemplo de aplicação 
 ------------ | -------------
-![Image of Constraint Alignment](https://miro.medium.com/max/429/1*3jIUT0p0bf0-2baw_K68QQ.png) | Um bom exemplo de como você pode posicionar um [componente](/posts/2019-11-14-components-in-android) no Constraint Layout: <script src="https://gist.github.com/clcmoliveira/f89d5ed420f9749f06caf4e2e726b14f.js"></script>
-
+![Image of Constraint Alignment](https://miro.medium.com/max/429/1*3jIUT0p0bf0-2baw_K68QQ.png) | <script src="https://gist.github.com/clcmoliveira/f89d5ed420f9749f06caf4e2e726b14f.js"></script>
 
 ------
 
@@ -44,7 +45,6 @@ Cada linha da grade é referenciada por índices, numeradas a partir de 0 contan
 Exemplo Visual | Exemplo de aplicação 
 ------------ | -------------
 ![Grid Layout Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png) | <script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
-
 
 ----
 
