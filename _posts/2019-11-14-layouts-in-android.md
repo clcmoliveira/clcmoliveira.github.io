@@ -44,7 +44,7 @@ Cada linha da grade é referenciada por índices, numeradas a partir de 0 contan
 
 Exemplo Visual | Exemplo de aplicação 
 ------------ | -------------
-<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png" alt="Grid Layout Example" width="100" height="150"/> | <script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
+<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/gridlayout-exemplo.png" alt="Grid Layout Example" width="100" /> | <script src="https://gist.github.com/clcmoliveira/4b47c5e7c9805811eeacc8e7267603a2.js"></script>
 
 ----
 
@@ -54,7 +54,7 @@ Com o RelativeLayout, você pode posicionar as Views Filhas em relação ao Pai,
 Em relação ao Layout Pai | Em relação a outras views
 ------------ | -------------
 As Views Filhas dentro do RelativeLayout Pai podem ser posicionadas as bordas esquerda do Pai, superior, direita ou inferior. | Ao posicionar as Views Filhas em relação a outras Views, você pode adicionar restrições a sua posição. Por exemplo, um TextView deve estar acima de outra TextView, ou um ImageView deve ser a a esquerda de uma outra TextView.
-<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png" alt="Relative Layout First Example" width="100" height="150"/> | <img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png" alt="Relative Layout Second Example" width="100" height="150"/>
+<img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png" alt="Relative Layout First Example" width="100" /> | <img src="https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png" alt="Relative Layout Second Example" width="100"/>
 
 ---------
 # Bibliografia
