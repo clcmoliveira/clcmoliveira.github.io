@@ -47,8 +47,11 @@ Cada linha da grade é referenciada por índices, numeradas a partir de 0 contan
 ## Relative Layout
 Com o RelativeLayout, você pode posicionar as Views Filhas em relação ao Pai, como por exemplo posicionar a View no topo ou no fim do layout. A outra opção, é posicionar as Views em relação a outras Views dentro do mesmo RelativeLayout.
 - Em relação ao layout pai: As Views Filhas dentro do RelativeLayout Pai podem ser posicionadas as bordas esquerda do Pai, superior, direita ou inferior.
+
 ![Relative Layout First Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-pai.png)
+
 - Em relação a outras views: Ao posicionar as Views Filhas em relação a outras Views, você pode adicionar restrições a sua posição. Por exemplo, um TextView deve estar acima de outra TextView, ou um ImageView deve ser a a esquerda de uma outra TextView.
+
 ![Relative Layout Second Example](https://www.androidpro.com.br/wp-content/uploads/2016/07/relativelayout-relativo-outras-views-exemplo.png)
 
 ---------
