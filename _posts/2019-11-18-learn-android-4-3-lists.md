@@ -57,11 +57,6 @@ Aviso importante: Código em Kotlin, o exemplo em Java está no guia de desenvol
 # Biblioteca
 - Android - [Guia de Desenvolvimento - RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 - Android - [Guia de Desenvolvimento - CardView](https://developer.android.com/guide/topics/ui/layout/cardview.html)
+- Android - [Guia de Desenvolvimento - List](https://developer.android.com/reference/java/util/List)
 - AndroidPro - [RecyclerView & CardView: Listando Dados de Forma Eficiente](https://www.androidpro.com.br/blog/design-layout/recyclerview-cardview/)
 - Let's Build That App - [Kotlin Firebase Messenger](https://www.letsbuildthatapp.com/course_video?id=3492)
-
-
-
-
----
-# Bibliografia
