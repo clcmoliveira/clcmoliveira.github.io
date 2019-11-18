@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model e Arquiteturas no Android
+title: Aula 4 - Model e Arquiteturas no Android
 description: Arquiteturas de uma aplicação
 author: Camila L. Oliveira
 image: 
