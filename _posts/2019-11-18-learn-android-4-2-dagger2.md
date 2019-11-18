@@ -39,6 +39,7 @@ Logo, o Dagger 2 facilita o trabalho de evitar acoplamento e organizar todas as 
 [Exemplo de Aplicação com Dagger](https://github.com/jcaiqueoliveira/introDagger2/tree/master/introDagger)
 
 ---
+
  # Bibliografia
  - [InfoQ](https://www.infoq.com/br/presentations/principios-solid/)
  - @jcaiqueoliveira - [Introdução ao Dagger 2](https://medium.com/android-dev-br/introdução-ao-dagger-2-56d193118a6c)
