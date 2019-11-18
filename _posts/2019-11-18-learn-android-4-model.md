@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Model no Android
-description: Android e o Banco de Dados
+title: Model e Arquiteturas no Android
+description: Arquiteturas de uma aplicação
 author: Camila L. Oliveira
 image: 
 ---
