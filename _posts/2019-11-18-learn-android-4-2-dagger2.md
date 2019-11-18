@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dagger 2
+title: Aula 4.2 - Dagger 2
 description: Injeção de dependência
 author: Camila L. Oliveira
 image: https://miro.medium.com/max/5184/1*FF58MEzYuvBgpl7yLNyTkw.jpeg
