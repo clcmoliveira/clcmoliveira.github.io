@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Layouts no Android
+title: Aula 2 - Layouts no Android
 description: Os modelos de XML de uma activity
 author: Camila L. Oliveira
 image: https://miro.medium.com/max/1286/1*_-Xrmn7afj_HzxGOlsRqig.png
