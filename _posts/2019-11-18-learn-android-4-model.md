@@ -68,7 +68,9 @@ Exemplo de MVVM:
 
 <script src="https://gist.github.com/ksdrof500/9953dffcb905512d06a3a10f1ebaf6ea.js"></script>
 
-
 ---
 # Bibliografia
 @ksdrof500 - [Android MVC x MVP x MVVM qual Pattern utilizar](https://medium.com/@FilipeFNunes/android-mvc-x-mvp-x-mvvm-qual-pattern-utilizar-parte-1-3defc5c89afd)
+- Android - [Guia de Desenvolvimento: Arquiteturas](https://developer.android.com/jetpack/docs/guide?hl=pt-br)
+- Android - [Guia de Desenvolvimento: Arquiteturas](https://github.com/android/architecture-samples)
+
