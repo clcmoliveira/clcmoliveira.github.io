@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Views no Android
+title: Aula 3 - Views no Android
 description: Quem é quem nas Views?
 author: Camila L. Oliveira
 image: 
