@@ -70,11 +70,5 @@ Exemplo de MVVM:
 
 
 ---
-## Curiosidade
-List View | Recycler View
----|---
-O **List View** trata de uma lista simples, sem necessitar de memória RAM. | Em **Recycler View**, você possui uma reciclágem dos componentes, com dados atualizados.
-
----
 # Bibliografia
 @ksdrof500 - [Android MVC x MVP x MVVM qual Pattern utilizar](https://medium.com/@FilipeFNunes/android-mvc-x-mvp-x-mvvm-qual-pattern-utilizar-parte-1-3defc5c89afd)
