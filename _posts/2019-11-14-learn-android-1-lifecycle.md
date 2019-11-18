@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ciclo de Vida de uma Activity
+title: Aula 1 - Ciclo de Vida de uma Activity
 description: Tópico inicial da revisão de Android
 author: Camila L. Oliveira
 image: https://static.javatpoint.com/images/androidimages/Android-Activity-Lifecycle.png
