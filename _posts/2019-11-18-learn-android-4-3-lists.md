@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listas no Android
+title: Aula 4.3 - Listas no Android
 description: Lists e Recyclers: qual o melhor?
 author: Camila L. Oliveira
 image: 
